@@ -28,7 +28,7 @@ Synthesized analysis of the L1 phase.
 
 ### ⚡ [Strategy](./strategy)
 Looking forward to the next phase of development.
-*   [**Personal Operating System (L2)**](./strategy/PERSONAL_OPERATING_SYSTEM_L2.md): The tactical playbook for scaling impact and maintaining stability.
+*   [**L2 Strategic Playground**](./strategy/L2_STRATEGIC_PLAYGROUND.md): Using Phase 2 as a lab for stress-testing and expanding the Industrialist thesis.
 
 ---
 
