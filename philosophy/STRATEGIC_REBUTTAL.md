@@ -8,8 +8,8 @@
 ## 🧐 The Thesis: Pursuit’s "Absorption" Model
 Based on Pursuit's stated mission and organizational structure, their core bet for economic transformation relies on **Enterprise Absorption**.
 
-*   **The Goal:** Moving Fellows from an average starting income of $18k to $90k+.
-*   **The Mechanism:** A four-year journey focused on "Industry Readiness," culminating in placement within major corporate partners (Uber, Citi, Blackstone, etc.).
+*   **The Goal:** Moving Fellows from an average starting income of \$18k to \$90k+.
+*   **The Mechanism:** A three-phase, 7-month intensive focused on "Industry Readiness," designed to rapidly prepare high-potential talent for integration into major corporate partners (Uber, Citi, Blackstone, etc.).
 *   **The Logic:** Economic mobility is best achieved by bridging the gap between underserved talent and the massive, stable capital of Enterprise SaaS and B2B sectors.
 
 **In summary:** Pursuit views AI-native skills as a ticket *into* the existing high-stability corporate engine.
