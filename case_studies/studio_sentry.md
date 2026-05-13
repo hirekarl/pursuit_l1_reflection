@@ -11,7 +11,7 @@
 *   **Sovereignty:** Instead of using a standard "Chat UI," I advocated for a **Blueprint-First** architecture. This ensures that the AI is grounded in the studio's "DNA" (rules, pricing, FAQs) before it ever sends a response.
 *   **The Bargain:** Proved that a single architect can deploy a custom "Business DNA" scraper and classifier faster than a studio owner could manually triage their inbox for a week.
 
-### ♿ The Martha-First Impact
+### ♿ The Universal Accessibility Impact
 *   **Accessibility:** Focused on high-contrast lead-capture forms that work on older mobile devices (common for clients on the go).
 *   **Dignity:** The system doesn't just "collect leads"; it treats every inquiry with professional precision, ensuring that even "low-budget" inquiries get a respectful, deterministic "No" or a referral, rather than being ignored in an overflowing inbox.
 

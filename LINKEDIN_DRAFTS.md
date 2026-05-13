@@ -19,7 +19,7 @@ The goal wasn't just to "write code." It was to collapse the distance between id
 
 **The L1 Results:**
 - 🛡️ **StudioSentry:** Deterministic lead triage for creative studios.
-- ♿ **Elevator Advocate:** Civic accountability for NYC tenants (The Martha-First Protocol).
+- ♿ **Elevator Advocate:** Civic accountability for NYC tenants (The Universal Accessibility Protocol).
 - 🔋 **Kinetic:** SRE for the Self—bio-operational triage to prevent burnout.
 - 📚 **BookBounty:** Logistical culling for life transitions.
 - 📺 **roku-tui:** High-performance hardware control from the terminal.
@@ -45,7 +45,7 @@ Using an "AI Staff" (Atlas, Forge, Prism), I’ve maintained a 5-day sprint cycl
 
 **Core Pillars of my L1 Work:**
 1. **Deterministic Blueprinting:** No hallucinations. Strictly typed, production-ready AI systems.
-2. **The Martha-First Protocol:** Designing for the most constrained users to ensure dignity and robustness for everyone.
+2. **The Universal Accessibility Protocol:** Designing for the most constrained users to ensure dignity and robustness for everyone.
 3. **Agentic Velocity:** Delivering in days what legacy teams deliver in months.
 
 The full documentation, case studies, and my manifesto for the "Individual Industrialist" are now live on GitHub:

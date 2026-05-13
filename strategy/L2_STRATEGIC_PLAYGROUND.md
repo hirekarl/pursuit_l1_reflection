@@ -15,7 +15,7 @@ The following abstract goals will guide the exploration in the next phase:
 
 ### 1. Architectural Fragility vs. Robustness
 I will use L2 to see how far a single architect can push complex systems before the "AI Staff" model requires a new level of governance. 
-*   **The Question:** At what point does high-velocity development collapse into technical debt, and how can AI-native audits (like the Martha-First Protocol) prevent that collapse?
+*   **The Question:** At what point does high-velocity development collapse into technical debt, and how can AI-native audits (like the Universal Accessibility Protocol) prevent that collapse?
 
 ### 2. Deep-Vertical Saturation
 Instead of building broad tools, I will test the "Individual Industrialist" in highly specific, hyper-local environments.
@@ -25,9 +25,12 @@ Instead of building broad tools, I will test the "Individual Industrialist" in h
 I will experiment with higher levels of autonomy for my AI staff (Atlas, Forge, Prism), moving them from "Task Runners" to "Collaborative Designers."
 *   **The Question:** How much of the "Industrialist's" judgment can be safely offloaded to a multi-agent system while maintaining radical dignity and human-centric design?
 
----
+### 4. AI-Native Governance & Auto-Refactoring
+*   **The Goal:** Building "Sentry Agents" that automatically audit code for Universal Accessibility compliance and deterministic reliability.
+*   **Market Value:** This moves me from "Developer" to "Systems Governance Architect," a role that commands the highest tier of salary in 2026.
 
-## ⚡ The L2 Mantra
-**"Move fast, break the assumptions, and advocate for the resolver."**
+### 5. The "Hyper-Local" API Integration
+*   **The Goal:** Moving beyond public APIs (OpenLib/eBay) to custom scrapers and local government OCR for real-time civic advocacy.
+*   **Market Value:** Proves I can solve problems that are "too messy" for Big Tech to touch.
 
 L2 is not a roadmap; it is a lab. The goal is to return with a more refined, battle-tested version of the Builder Advocacy framework.

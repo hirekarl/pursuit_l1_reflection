@@ -43,7 +43,7 @@ A builder who uses an "AI Staff" (Atlas, Forge, Prism) is not a "Junior Develope
 The refusal to outsource your judgment to a corporate methodology. If a standard enterprise practice (like a 4-week sprint for a simple CRUD app) is inefficient, the builder advocates for a faster, AI-native alternative.
 
 ### II. Radical Utility
-Prioritizing "The Human at the End of the Pipe" over "The Stakeholder in the Meeting." Self-advocacy means defending the **Martha-First Protocol** even when corporate interests want to cut corners on accessibility or dignity.
+Prioritizing "The Human at the End of the Pipe" over "The Stakeholder in the Meeting." Self-advocacy means defending the **Universal Accessibility Protocol** even when corporate interests want to cut corners on accessibility or dignity.
 
 ### III. Operational Autonomy
 The goal is not to be "absorbed" into the engine, but to **be the engine**. Even within a job, a builder-advocate maintains their own "Personal Infrastructure" (like *Kinetic*) to ensure they are never "blind" or dependent on the corporation for their sense of worth or productivity.

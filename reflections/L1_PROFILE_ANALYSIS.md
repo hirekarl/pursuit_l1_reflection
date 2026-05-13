@@ -22,7 +22,7 @@ Karl’s most significant innovation in L1 is the development of a **Multi-Agent
 *   **Prism (Frontend):** Focuses on React 19, TypeScript, and interactive UI state.
 *   **Nova (AI Specialist):** Manages Gemini 2.5 Flash integrations and structured output schemas via `instructor`.
 *   **Sentry (Quality):** Conducts automated QA, accessibility audits, and regression testing.
-*   **Martha (The Constraint):** A persona-driven agent that ensures all designs meet the accessibility needs of senior citizens and low-bandwidth users.
+*   **Aura (The Constraint):** A persona-driven agent that ensures all designs meet the accessibility needs of senior citizens and low-bandwidth users.
 
 **Impact:** This factory model allows for the delivery of production-grade, full-stack MVPs in 5-day sprints—a cadence that sets a new benchmark for individual developer productivity in 2026.
 
@@ -37,7 +37,7 @@ Karl’s most significant innovation in L1 is the development of a **Multi-Agent
 
 ### 2. Elevator Advocate (Civic Accountability)
 *   **The Problem:** The "Information Gap" in NYC housing; official data lags behind the reality of broken elevators.
-*   **The Solution:** A **Martha-First** platform that bridges the gap between resident reports and 311/SODA data.
+*   **The Solution:** A **Universal Accessibility** platform that bridges the gap between resident reports and 311/SODA data.
 *   **Innovation:** High-contrast, low-barrier UI designed for seniors, generating AI-powered scripts for official advocacy.
 
 ### 3. BookBounty (Library Downsizing)
@@ -70,7 +70,7 @@ Karl’s work is characterized by a specific **"Tokyo Night" Terminal Aesthetic*
 In an era where "anyone can prompt," Karl’s moat is built on the intersection of **structured reliability** and **human-centric constraints**.
 
 1.  **Deterministic Blueprinting:** While others build "chatbots," Karl builds **schema-first engines**. By forcing LLM outputs into strictly typed Pydantic models, he ensures his systems are reliable enough for business-critical operations.
-2.  **The "Martha-First" Protocol:** He treats accessibility as a foundational constraint, not a "nice-to-have." By building for the most constrained users, his software achieves a level of robustness and clarity that "unconstrained" apps lack.
+2.  **The "Universal Accessibility" Protocol:** He treats accessibility as a foundational constraint, not a "nice-to-have." By building for the most constrained users, his software achieves a level of robustness and clarity that "unconstrained" apps lack.
 3.  **High-Velocity Orchestration:** His ability to manage multiple specialized agents simultaneously is a force multiplier. He is not a 10x engineer; he is a 1x architect managing a 10x AI factory.
 4.  **Full-Stack Integrity:** He maintains 100% test coverage and WCAG 2.2 AA compliance as a baseline, ensuring that "AI-speed" doesn't lead to "technical debt."
 

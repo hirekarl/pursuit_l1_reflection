@@ -34,7 +34,7 @@ Enterprise software is built for "The Median User." It fails the creative entrep
 
 #### 3. Radical Dignity vs. Corporate Utility: Elevator Advocate
 Enterprise B2B software optimizes for profit margins. **Elevator Advocate** optimizes for a 70-year-old woman's ability to walk up five flights of stairs.
-*   **Rebuttal:** By prioritizing "Martha-First" design, I am proving that AI-native tools can provide a level of civic accountability that no "Enterprise-absorbed" developer will ever be tasked with building inside a corporate silo.
+*   **Rebuttal:** By prioritizing **Accessibility-First** design, I am proving that AI-native tools can provide a level of civic accountability that no "Enterprise-absorbed" developer will ever be tasked with building inside a corporate silo.
 
 ---
 

@@ -32,4 +32,4 @@ GitHub: https://github.com/hirekarl
 ### Kinetic
 - Source: https://github.com/hirekarl/kinetic
 - Video: https://youtu.be/P03BV-CmaG8
-- Demo: [PENDING]
+- Demo: https://kinetic-frontend-c2bd.onrender.com/

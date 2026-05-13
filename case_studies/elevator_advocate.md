@@ -11,8 +11,8 @@
 *   **Sovereignty:** I ignored the "Standard Map" pattern and built a **Report-First** workflow. The builder advocates for the user's *need to act* over the data's *need to be seen*.
 *   **The Bargain:** A 5-day build that provides more real-time building health visibility than multi-million dollar city dashboards.
 
-### ♿ The Martha-First Impact
-*   **Accessibility:** Named after "Martha," a 70-year-old tenant. High contrast, large touch targets, and simplified navigation.
+### ♿ The Universal Accessibility Impact
+*   **Accessibility:** Focused on seniors and the mobility-impaired. High contrast, large touch targets, and simplified navigation.
 *   **Dignity:** The app generates AI-powered 311 scripts and advocacy letters. It takes the "emotional labor" out of fighting for one's rights, allowing a senior to advocate for themselves with the precision of a lawyer.
 
 ### 📊 5-Day MVP Benchmarks
@@ -20,4 +20,4 @@
 - **Day 2:** Geo-spatial search and Leaflet map setup.
 - **Day 3:** Building Health scoring algorithm.
 - **Day 4:** AI Advocacy Script generator (Gemini).
-- **Day 5:** Martha-First UI audit and deployment.
+- **Day 5:** Universal Accessibility UI audit and deployment.

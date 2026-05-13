@@ -6,7 +6,7 @@ The distance between **identifying a problem** and **deploying a solution** has 
 
 ### 🏛️ THE PILLARS
 1.  **DETERMINISTIC BLUEPRINTING:** AI is not a chat partner; it is a manufacturing floor. I use strictly typed schemas (Pydantic/Instructor) to ensure that AI-native systems are deterministic, reliable, and production-ready.
-2.  **THE MARTHA-FIRST PROTOCOL:** Radical dignity through accessibility. If a tool doesn't work for a 70-year-old on a low-bandwidth device, it is incomplete. We build for the most constrained to ensure robustness for all.
+2.  **THE UNIVERSAL ACCESSIBILITY PROTOCOL:** Radical dignity through accessibility. If a tool doesn't work for a 70-year-old on a low-bandwidth device, it is incomplete. We build for the most constrained to ensure robustness for all.
 3.  **AGENTIC VELOCITY:** I orchestrate a multi-agent factory (Atlas, Forge, Prism) to deliver in 5 days what legacy teams deliver in 3 months. My moat is speed, my product is resolution.
 
 ### 🚀 THE PORTFOLIO
